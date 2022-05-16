@@ -1,6 +1,6 @@
 ## Getting Started
 First to ensure node_modules installed:
-```
+```bash
 npm install
 # or
 yarn install
